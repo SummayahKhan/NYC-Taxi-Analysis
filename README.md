@@ -16,7 +16,7 @@ Dataset: [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/ny
 - Payment type trends show most customers prefer credit card  
 
 ## ⚙️ Tools Used
-- Python (pandas, matplotlib, seaborn, scikit-learn)  
+- Python (pandas, matplotlib, seaborn)  
 - Jupyter Notebook  
 
 ## 🚀 Results

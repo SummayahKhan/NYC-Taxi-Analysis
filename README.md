@@ -10,8 +10,6 @@ This project analyzes NYC Yellow Taxi trip data (Jan–Mar 2016, 34M+ trips).
 ## 📂 Dataset
 You can download the 2016 raw files from Kaggle: [NYC Yellow Taxi Trip Data](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)  
 
-⚠️ **Note:** The raw files are very large (GBs). Do not upload them directly to GitHub. Keep them in `data/raw/` or include a small sample for demo purposes.  
-
 ---
 
 ## 🔑 Key Insights
